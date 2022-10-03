@@ -1,0 +1,10 @@
+Package: tt
+Version: 0.0.1
+Title: @@@
+Description: @@@.
+Author: @@@ [aut]
+Maintainer: @@@ <hoge@example.com>
+URL: https://github.com/hoge/tt
+License: ISC
+Encoding: UTF-8
+Imports: stringr

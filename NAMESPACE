@@ -1,0 +1,4 @@
+export(func1)
+export(func2)
+importFrom(stringr,str_length)
+#exportClasses("className")
